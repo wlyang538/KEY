@@ -1,0 +1,6 @@
+{
+  "dictionary": {"rank_in": 48, "rank_out": 48, "atom_budget": 1024, "epsilon": 1e-8},
+  "optimization": {"task": "edit", "steps": 200, "learning_rate": 0.03,
+    "lambda_retain": 0.6, "lambda_select": 0.4, "clip_norm": 1.0,
+    "weight_decay": 0.0, "seed": 2026}
+}
